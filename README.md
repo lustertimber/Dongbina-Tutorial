@@ -1,3 +1,6 @@
+# 동빈나 유튜버 강좌 내용을 기반하여 작성한 프로젝트
+# https://www.youtube.com/watch?v=_yEH9mczm3g&list=PLRx0vPvlEmdD1pSqKZiTihy5rplxecNpz&index=1
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
